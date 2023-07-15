@@ -13,3 +13,5 @@ Components used:
 6. Bulb Holder
 7. Bulb
 8. Programming language used - Micro Python
+
+The basic app is built with the website "Kodular Creator". Website link - https://www.kodular.io/creator/
